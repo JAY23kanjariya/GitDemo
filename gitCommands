@@ -18,7 +18,7 @@ git add .                      # stage all
 git commit -m "message"        # commit staged changes
 git commit --amend             # amend last commit
 
-# Viewing history and changes
+# Viewing history and changes 
 git log                        # commit history
 git log --oneline --graph --decorate
 git show <commit>              # show commit details
